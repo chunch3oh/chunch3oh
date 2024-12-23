@@ -84,17 +84,4 @@ I am a dedicated and passionate engineer with a strong focus on AI applications,
 
 ## 🌟 Contact Me
 - **Email (NTU):** B08902081@csie.ntu.edu.tw  
-- **Email (Adelaide):** a1904030@adelaide.edu.au  
-- **Phone (Taiwan):** +886 987-666-986  
-- **Phone (Australia):** +61 458-657-618  
 
----
-
-## 📌 Referees
-1. **Rv. Jill Lienert**  
-   *Community Connections and Development Minister, Scots Church Adelaide*  
-   connections@scotschurch.org | +61 409-178-465
-
-2. **Dr. Chwan-Chuen King**  
-   *Professor, Institute of Epidemiology and Preventive Medicine, NTU*  
-   chwanchuen@gmail.com | +886 972-088-085
